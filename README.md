@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-slug" target="blank">
+  <a href="https://www.linkedin.com/in/qu%C3%A2n-tr%E1%BA%A7n-8b4249372/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tranminhquan.acc@gmail.com">
