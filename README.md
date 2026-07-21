@@ -27,6 +27,7 @@
 
 - 🎓 Bachelor in Software Engineering, **FPT University HCM** (2021 – 2025)
 - 💼 Full Stack Developer Intern @ **FPT Telecom**, building internal request-management systems
+- 🛰️ Also interned @ **ITD Solutions**, working on real-time incident alert & weighbridge systems
 - 🌱 Currently deepening my skills in **backend architecture** and **modern frontend development**
 - 🤝 Open to collaborating on real-world products where I can grow into a strong full-stack engineer
 - 📫 Reach me at **tranminhquan.acc@gmail.com**
@@ -105,6 +106,9 @@ Backend services with ASP.NET Core & REST APIs, frontend with ReactJS/Tailwind/A
 
 **Back-End Developer Intern — FPT Software** · *Nov 2023 – May 2024*
 Backend logic in C# following design specs and coding standards, RESTful API integration, Entity Framework + Dependency Injection.
+
+**Software Developer Intern — ITD Solutions** · *Mar 2026 – Jul 2026*
+Contributed to a VDS & AI CCTV incident/event alert system and a vehicle weighbridge system deployed at toll stations; hands-on with real-time data and event processing in a cross-team environment.
 
 ---
 
