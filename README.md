@@ -101,14 +101,14 @@
 
 ### 💼 Experience
 
+**Software Developer Intern — ITD Solutions** · *Mar 2026 – Jul 2026*
+Contributed to a VDS & AI CCTV incident/event alert system and a vehicle weighbridge system deployed at toll stations; hands-on with real-time data and event processing in a cross-team environment.
+
 **Full Stack Developer Intern — FPT Telecom** · *Aug 2025 – Feb 2026*
 Backend services with ASP.NET Core & REST APIs, frontend with ReactJS/Tailwind/Ant Design/Redux Toolkit, data handling with Oracle SQL & Redis.
 
 **Back-End Developer Intern — FPT Software** · *Nov 2023 – May 2024*
 Backend logic in C# following design specs and coding standards, RESTful API integration, Entity Framework + Dependency Injection.
-
-**Software Developer Intern — ITD Solutions** · *Mar 2026 – Jul 2026*
-Contributed to a VDS & AI CCTV incident/event alert system and a vehicle weighbridge system deployed at toll stations; hands-on with real-time data and event processing in a cross-team environment.
 
 ---
 
