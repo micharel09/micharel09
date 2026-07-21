@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | ASP.NET Core & ReactJS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;ASP.NET+Core+%7C+ReactJS+%7C+TypeScript;Building+reliable%2C+user-focused+applications;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%7C+ReactJS+%7C+TypeScript;Building+reliable%2C+user-focused+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -109,6 +109,13 @@ Backend logic in C# following design specs and coding standards, RESTful API int
 
 **Software Developer Intern — ITD Solutions** · *Mar 2026 – Jul 2026*
 Contributed to a VDS & AI CCTV incident/event alert system and a vehicle weighbridge system deployed at toll stations; hands-on with real-time data and event processing in a cross-team environment.
+
+---
+
+### 📜 Certifications
+
+- **Certified Ethical Emerging Technologist** · Jul 2023
+- **Web Design for Everybody: Basics of Web Development & Coding** · Mar 2023
 
 ---
 
