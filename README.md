@@ -119,12 +119,4 @@ Backend logic in C# following design specs and coding standards, RESTful API int
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=micharel09&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 <p align="center"><i>Building reliable, user-focused applications — one commit at a time.</i></p>
