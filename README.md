@@ -119,23 +119,6 @@ Backend logic in C# following design specs and coding standards, RESTful API int
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=micharel09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micharel09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micharel09&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=micharel09&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
