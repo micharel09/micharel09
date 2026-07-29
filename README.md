@@ -56,17 +56,6 @@ NOW BUILDING  →  business workflows · real-time event systems · practical pr
 
 See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for project context, responsibilities, and gallery images.
 
-## System map
-
-```mermaid
-flowchart LR
-    UI[React / TypeScript] --> API[ASP.NET Core APIs]
-    API --> RT[SignalR events]
-    API --> DATA[(SQL Server · Oracle · Redis)]
-    API --> SHIP[Docker delivery]
-    SHIP --> PROD[Production systems]
-```
-
 ## Toolkit
 
 <p>
