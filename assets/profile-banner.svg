@@ -1,0 +1,23 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Tran Minh Quan — Full-stack Developer</title>
+  <desc id="description">A dark developer portfolio banner with a lime system grid.</desc>
+  <rect width="1280" height="360" fill="#10120F"/>
+  <g stroke="#2A3024" stroke-width="1">
+    <path d="M0 60H1280M0 120H1280M0 180H1280M0 240H1280M0 300H1280"/>
+    <path d="M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360M1200 0V360"/>
+  </g>
+  <path d="M0 298C148 286 215 216 359 223C496 230 535 96 704 111C843 123 910 249 1044 225C1148 206 1217 130 1280 123" stroke="#9BAD00" stroke-width="3"/>
+  <circle cx="359" cy="223" r="8" fill="#9BAD00"/>
+  <circle cx="704" cy="111" r="8" fill="#9BAD00"/>
+  <circle cx="1044" cy="225" r="8" fill="#9BAD00"/>
+  <rect x="52" y="48" width="158" height="30" rx="15" fill="#9BAD00"/>
+  <text x="72" y="68" fill="#10120F" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">SYSTEM / ONLINE</text>
+  <text x="52" y="176" fill="#F5F2E9" font-family="Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-3">TRAN MINH QUAN</text>
+  <text x="57" y="218" fill="#B9C0B0" font-family="monospace" font-size="19" letter-spacing="1.8">FULL-STACK DEVELOPER  /  HO CHI MINH CITY</text>
+  <g font-family="monospace" font-size="13" fill="#9BAD00">
+    <text x="1010" y="61">01 / BACKEND</text>
+    <text x="1010" y="85">02 / FRONTEND</text>
+    <text x="1010" y="109">03 / DELIVERY</text>
+  </g>
+  <text x="52" y="320" fill="#7D8676" font-family="monospace" font-size="13">RELIABLE SYSTEMS · REAL-TIME WORKFLOWS · PRODUCT DELIVERY</text>
+</svg>

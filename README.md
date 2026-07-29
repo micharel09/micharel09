@@ -1,43 +1,97 @@
-# Tran Minh Quan
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Tran Minh Quan — Full-stack Developer" width="100%" />
+</p>
 
-**Full-stack Developer** focused on reliable business applications, real-time systems, and practical product delivery.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=9BAD00&center=true&vCenter=true&width=720&lines=Designing+reliable+systems+from+API+to+interface;ASP.NET+Core+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Docker;Based+in+Ho+Chi+Minh+City%2C+Vietnam" alt="Developer introduction" />
+</p>
 
-[Portfolio](https://quan-portfolio-ten.vercel.app) · [LinkedIn](https://www.linkedin.com/in/qu%C3%A2n-tr%E1%BA%A7n-8b4249372/) · [Email](mailto:tranminhquan.acc@gmail.com)
+<p align="center">
+  <a href="https://quan-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F1110?style=for-the-badge&logo=vercel&logoColor=9BAD00" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/qu%C3%A2n-tr%E1%BA%A7n-8b4249372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tranminhquan.acc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Based in Ho Chi Minh City, Vietnam. I work across backend services, frontend interfaces, data, and deployment—bringing an idea through to a maintainable product.
+## About
 
-## Focus
+I am a Full-stack Developer who enjoys turning operational problems into clear, maintainable software. My work spans backend services, responsive interfaces, data flows, and deployment—so a feature can move from idea to production with context intact.
 
-- Build APIs and business workflows with ASP.NET Core, C#, and Entity Framework.
-- Deliver responsive React and TypeScript interfaces for real product operations.
-- Work with real-time events through SignalR and practical data stores such as SQL Server, Oracle, MongoDB, and Redis.
-- Ship applications with Docker and collaborate through GitHub and GitLab.
-
-## Experience
-
-| Role | Company | Highlights |
-| --- | --- | --- |
-| Software Developer Intern | ITD Solutions | Contributed to VDS, AI CCTV incident alerts, and toll weighbridge systems with real-time event processing and Docker deployment. |
-| Full-stack Developer Intern | FPT Telecom | Built internal customer-request workflows across ASP.NET Core APIs, React, Oracle SQL, and Redis. |
-| Back-end Developer Intern | FPT Software | Implemented C# backend logic, REST API integration, Entity Framework, and dependency injection practices. |
+```text
+NOW BUILDING  →  business workflows · real-time event systems · practical product delivery
+```
 
 ## Selected work
 
-| Project | Context | Contribution |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://quan-portfolio-ten.vercel.app/projects/fcr-customer-request-system">
+        <img src="https://quan-portfolio-ten.vercel.app/assets/fpt-telecom-team-02.jpg" alt="FPT Telecom team" />
+      </a>
+      <br /><br />
+      <strong>FCR</strong><br />
+      <sub>FPT Telecom · Request management system</sub><br /><br />
+      ASP.NET Core, React, Oracle SQL, Redis
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://quan-portfolio-ten.vercel.app/projects/vds-ai-cctv-weighbridge">
+        <img src="https://quan-portfolio-ten.vercel.app/assets/itd-team.jpg" alt="ITD Solutions team" />
+      </a>
+      <br /><br />
+      <strong>VDS / AI CCTV</strong><br />
+      <sub>ITD Solutions · Real-time alerting</sub><br /><br />
+      Event processing, SQL Server, Docker
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://quan-portfolio-ten.vercel.app/projects/eigakan-movie-sharing-platform">
+        <img src="https://quan-portfolio-ten.vercel.app/assets/eigakan-team.jpg" alt="Eigakan project team" />
+      </a>
+      <br /><br />
+      <strong>Eigakan</strong><br />
+      <sub>Graduation project · Shared movie platform</sub><br /><br />
+      SignalR, AWS S3, BunnyCDN, Cloudinary
+    </td>
+  </tr>
+</table>
+
+See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for project context, responsibilities, and gallery images.
+
+## System map
+
+```mermaid
+flowchart LR
+    UI[React / TypeScript] --> API[ASP.NET Core APIs]
+    API --> RT[SignalR events]
+    API --> DATA[(SQL Server · Oracle · Redis)]
+    API --> SHIP[Docker delivery]
+    SHIP --> PROD[Production systems]
+```
+
+## Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,nextjs,tailwind,redux,mongodb,redis,docker,git,gitlab,github,postman,figma" alt="Core technologies" />
+</p>
+
+<details>
+  <summary><strong>What I work with</strong></summary>
+  <br />
+
+  - **Backend:** C#, ASP.NET Core, Entity Framework, REST APIs, SignalR
+  - **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Ant Design, Redux Toolkit
+  - **Data:** SQL Server, Oracle SQL, MongoDB, Redis
+  - **Delivery:** Docker, GitHub, GitLab, Postman, Figma
+</details>
+
+## Experience
+
+| Role | Company | Focus |
 | --- | --- | --- |
-| **FCR — FTI Customer Request System** | FPT Telecom | Developed request lifecycle APIs and operational interfaces to make internal request tracking clearer and more consistent. |
-| **VDS / AI CCTV / Toll Weighbridge** | ITD Solutions | Worked with device events, real-time alert flows, and Docker-based delivery for transportation systems. |
-| **Eigakan** | Graduation project | Built a real-time movie sharing platform with SignalR, media storage/CDN integrations, and publisher workflows. |
+| Software Developer Intern | ITD Solutions | VDS, AI CCTV alerts, toll weighbridge systems, real-time processing, Docker delivery |
+| Full-stack Developer Intern | FPT Telecom | Customer-request workflows, ASP.NET Core APIs, React interfaces, Oracle SQL, Redis |
+| Back-end Developer Intern | FPT Software | C# backend logic, REST APIs, Entity Framework, dependency injection |
 
-More context, responsibilities, and project galleries are available on my [portfolio](https://quan-portfolio-ten.vercel.app/projects).
-
-## Core toolkit
-
-- **Backend:** C#, ASP.NET Core, Entity Framework, REST APIs, SignalR
-- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Ant Design, Redux Toolkit
-- **Data:** SQL Server, Oracle SQL, MongoDB, Redis
-- **Delivery & collaboration:** Docker, Git, GitHub, GitLab, Postman, Figma
-
-## Contact
-
-I am open to full-stack engineering opportunities and practical product collaboration. Reach me at [tranminhquan.acc@gmail.com](mailto:tranminhquan.acc@gmail.com).
+<p align="center">
+  <strong>Open to full-stack engineering opportunities and practical product collaboration.</strong><br />
+  <a href="mailto:tranminhquan.acc@gmail.com">tranminhquan.acc@gmail.com</a>
+</p>
