@@ -55,33 +55,44 @@ NOW BUILDING  →  business workflows · real-time event systems · practical pr
 </table>
 
 See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for project context, responsibilities, and gallery images.
-
 ## Toolkit
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,ts" alt="Programming languages" />
-</p>
+<div align="center">
 
-### Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="Front-end stack" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Programming Languages</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=cs,ts" alt="Programming languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Front-end</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="Front-end stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Back-end</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=dotnet,cs" alt="Back-end stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Database</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=mssql,mongodb,redis" alt="Database stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Delivery & Tools</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,figma" alt="Delivery and tooling" />
+    </td>
+  </tr>
+</table>
 
-### Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" alt="Back-end stack" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mssql,mongodb,redis" alt="Database stack" />
-</p>
-
-### Delivery & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,figma" alt="Delivery and tooling" />
-</p>
+</div>
 
 <details>
   <summary><strong>Chi tiết đầy đủ</strong></summary>
