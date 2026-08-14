@@ -107,7 +107,7 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
 </div>
 
 <details>
-  <summary><strong>Chi tiết đầy đủ</strong></summary>
+  <summary><strong>Full Details</strong></summary>
   <br />
 
   - **Backend:** C#, .NET, NestJS, REST APIs, SignalR
