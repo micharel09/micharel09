@@ -58,12 +58,33 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
 
 ## Toolkit
 
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,nextjs,tailwind,redux,mongodb,redis,docker,git,gitlab,github,postman,figma" alt="Core technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,ts" alt="Programming languages" />
+</p>
+
+### Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="Front-end stack" />
+</p>
+
+### Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" alt="Back-end stack" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,mongodb,redis" alt="Database stack" />
+</p>
+
+### Delivery & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,figma" alt="Delivery and tooling" />
 </p>
 
 <details>
-  <summary><strong>What I work with</strong></summary>
+  <summary><strong>Chi tiết đầy đủ</strong></summary>
   <br />
 
   - **Backend:** C#, ASP.NET Core, Entity Framework, REST APIs, SignalR
@@ -71,14 +92,6 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
   - **Data:** SQL Server, Oracle SQL, MongoDB, Redis
   - **Delivery:** Docker, GitHub, GitLab, Postman, Figma
 </details>
-
-## Experience
-
-| Role | Company | Focus |
-| --- | --- | --- |
-| Software Developer Intern | ITD Solutions | VDS, AI CCTV alerts, toll weighbridge systems, real-time processing, Docker delivery |
-| Full-stack Developer Intern | FPT Telecom | Customer-request workflows, ASP.NET Core APIs, React interfaces, Oracle SQL, Redis |
-| Back-end Developer Intern | FPT Software | C# backend logic, REST APIs, Entity Framework, dependency injection |
 
 <p align="center">
   <strong>Open to full-stack engineering opportunities and practical product collaboration.</strong><br />
