@@ -85,10 +85,11 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
 </table>
 
 <table>
-  <tr><td colspan="2" align="center"><b>Database</b></td></tr>
+  <tr><td colspan="3" align="center"><b>Database</b></td></tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60" /><br />MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="60" /><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=oracle" width="60" /><br />Oracle</td>
   </tr>
 </table>
 
