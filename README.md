@@ -62,54 +62,51 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
 <table>
   <tr><td colspan="2" align="center"><b>Programming Languages</b></td></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="60" /><br />C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60" /><br />TypeScript</td>
   </tr>
 </table>
 
 <table>
-  <tr><td colspan="6" align="center"><b>Front-end</b></td></tr>
+  <tr><td colspan="5" align="center"><b>Front-end</b></td></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=antdesign" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="60" /><br />React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60" /><br />Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60" /><br />TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60" /><br />Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="60" /><br />NestJS</td>
   </tr>
 </table>
 
 <table>
-  <tr><td colspan="3" align="center"><b>Back-end</b></td></tr>
+  <tr><td colspan="2" align="center"><b>Back-end</b></td></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="60" /><br />.NET</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="60" /><br />C#</td>
   </tr>
 </table>
 
 <table>
-  <tr><td colspan="3" align="center"><b>Database</b></td></tr>
+  <tr><td colspan="2" align="center"><b>Database</b></td></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mssql" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60" /><br />MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="60" /><br />PostgreSQL</td>
   </tr>
 </table>
 
 <table>
-  <tr><td colspan="6" align="center"><b>Delivery & Tools</b></td></tr>
+  <tr><td colspan="5" align="center"><b>Delivery & Tools</b></td></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=render" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60" /><br />Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60" /><br />Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="60" /><br />GitLab</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="60" /><br />GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60" /><br />Figma</td>
   </tr>
 </table>
 
 </div>
+
 <p align="center">
   <strong>Open to full-stack engineering opportunities and practical product collaboration.</strong><br />
   <a href="mailto:tranminhquan.acc@gmail.com">tranminhquan.acc@gmail.com</a>
