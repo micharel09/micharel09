@@ -57,6 +57,8 @@ NOW BUILDING  →  business workflows · real-time event systems · practical pr
 See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for project context, responsibilities, and gallery images.
 ## Toolkit
 
+<div align="center">
+
 <table>
   <tr><td colspan="2" align="center"><b>Programming Languages</b></td></tr>
   <tr>
@@ -78,19 +80,20 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
 </table>
 
 <table>
-  <tr><td colspan="2" align="center"><b>Back-end</b></td></tr>
+  <tr><td colspan="3" align="center"><b>Back-end</b></td></tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="60" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="60" /></td>
   </tr>
 </table>
 
 <table>
   <tr><td colspan="3" align="center"><b>Database</b></td></tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mssql" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="60" /></td>
   </tr>
 </table>
 
@@ -98,23 +101,15 @@ See the [full case studies](https://quan-portfolio-ten.vercel.app/projects) for 
   <tr><td colspan="6" align="center"><b>Delivery & Tools</b></td></tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="60" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=render" width="60" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="60" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60" /></td>
   </tr>
 </table>
 
-<details>
-  <summary><strong>Chi tiết đầy đủ</strong></summary>
-  <br />
-
-  - **Backend:** C#, ASP.NET Core, Entity Framework, REST APIs, SignalR
-  - **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Ant Design, Redux Toolkit
-  - **Data:** SQL Server, Oracle SQL, MongoDB, Redis
-  - **Delivery:** Docker, GitHub, GitLab, Postman, Figma
-
+</div>
 <p align="center">
   <strong>Open to full-stack engineering opportunities and practical product collaboration.</strong><br />
   <a href="mailto:tranminhquan.acc@gmail.com">tranminhquan.acc@gmail.com</a>
